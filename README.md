@@ -53,7 +53,7 @@ npm install
 
 no primeiro terminal:
 ```sh
-npm run buil
+npm run build
 ```
 em outro terminal:
 ```sh
