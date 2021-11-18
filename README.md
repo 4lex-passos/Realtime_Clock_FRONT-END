@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-   BitTime
+   BitTime Clock
 </h2>
 
 <p align="center">
