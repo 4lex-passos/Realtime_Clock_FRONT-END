@@ -3,12 +3,12 @@
 </p>
 
 <h4 align="center">
-    ElectronJSㅤ᎓ㅤReactJS  ᎓  Socket.io  ᎓  Material UI
+    ElectronJSㅤ᎓ㅤReactJSㅤ᎓ㅤSocket.ioㅤ᎓ㅤMaterial UI
 </h4>
 
 <p align="center">Aplicação ElectronJS que mostra a hora em tempo real usando protocolo websocket</p>
 
-## 🍀 Instalação e execução:
+## Instalação:
 
 ### » Clonando o repositório:
 
@@ -40,6 +40,7 @@ $ git clone https://github.com/4lex-passos/Electron-with-ReactJs-Clock.git
 
 8 - Abra o projeto no VsCode.
 
+## Execução:
 ### » Instalando as dependências:
 
 ```sh
