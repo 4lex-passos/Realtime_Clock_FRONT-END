@@ -2,9 +2,9 @@
     <img src="https://github.com/4lex-passos/Electron-with-ReactJs-Clock/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
 </p>
 
-<h5 align="center">
+<h4 align="center">
     ElectronJS - ReactJS - Socket.io - Material UI
-</h5>
+</h4>
 
 <p align="center">Aplicação ElectronJS que mostra a hora em tempo real usando protocolo websocket</p>
 
