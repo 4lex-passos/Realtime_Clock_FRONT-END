@@ -8,9 +8,9 @@
 
 <p align="center">Aplicação ElectronJS que mostra a hora em tempo real usando protocolo websocket</p>
 
-## Instalação:
+## 📦 Instalação
 
-### » Clonando o repositório:
+### » Clonando o repositório
 
 1 - Na página principal do repositório.
 
@@ -38,10 +38,11 @@ $ git clone https://github.com/4lex-passos/Electron-with-ReactJs-Clock.git
 
 7 - Pressione Enter para criar seu clone local.
 
-## Execução:
+## 🚀 Execução
+
 Abra o projeto no VsCode.
 
-### » Instalando as dependências:
+### » Instalando as dependências
 
 No terminal digite:
 
@@ -50,7 +51,7 @@ npm install
 ```
 Para instalar todas as dependências.
 
-### » Iniciando o app:
+### » Iniciando o app
 
 No terminal digite:
 
@@ -62,3 +63,5 @@ Abra outro terminal em paralelo e digite:
 ```sh
 npm start
 ```
+
+Para iniciar a aplicação.
