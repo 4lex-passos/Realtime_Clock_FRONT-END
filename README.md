@@ -3,7 +3,7 @@
 </p>
 
 <h4 align="center">
-    ElectronJS  ⁞  ReactJS  ⁞  Socket.io  ⁞  Material UI
+    ElectronJS  ᎓  ReactJS  ᎓  Socket.io  ᎓  Material UI
 </h4>
 
 <p align="center">Aplicação ElectronJS que mostra a hora em tempo real usando protocolo websocket</p>
