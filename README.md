@@ -39,21 +39,26 @@ $ git clone https://github.com/4lex-passos/Electron-with-ReactJs-Clock.git
 7 - Pressione Enter para criar seu clone local.
 
 ## Execução:
+Abra o projeto no VsCode.
+
 ### » Instalando as dependências:
 
-Abra o projeto no VsCode.
+No terminal digite:
 
 ```sh
 npm install
 ```
+Para instalar todas as dependências.
 
 ### » Iniciando o app:
 
-no primeiro terminal:
+No terminal digite:
+
 ```sh
 npm run build
 ```
-em outro terminal:
+Abra outro terminal em paralelo e digite:
+
 ```sh
 npm start
 ```
