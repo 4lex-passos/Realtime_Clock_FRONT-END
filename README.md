@@ -1,11 +1,6 @@
 <p align="center">
-    <img src="https://github.com/4lex-passos/Electron-with-ReactJs-Clock/blob/master/public/logotype.png" />
+    <img src="https://github.com/4lex-passos/Electron-with-ReactJs-Clock/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
 </p>
-
-<h2 align="center">
-   BitTime Clock
-</h2>
-
 <p align="center">
     ElectronJS - ReactJS - Material UI
 </p>
