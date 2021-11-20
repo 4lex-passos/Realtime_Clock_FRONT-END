@@ -6,7 +6,7 @@
     ElectronJSㅤ᎓ㅤReactJSㅤ᎓ㅤSocket.ioㅤ᎓ㅤMaterial UI
 </h4>
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=#09c89f&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=09c89f&style=for-the-badge&logo=ghost"/>
 
 <p align="center">Aplicação ElectronJS que mostra a hora em tempo real usando protocolo websocket</p>
 
