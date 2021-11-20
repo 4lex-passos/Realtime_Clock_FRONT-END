@@ -2,7 +2,7 @@
     <img src="https://github.com/4lex-passos/Electron-with-ReactJs-Clock/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
 </p>
 
-![Socket.io]({https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white})
+<img src="{https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white}" />
 
 <p align="center">
     ElectronJS - ReactJS - Socket.io - Material UI
