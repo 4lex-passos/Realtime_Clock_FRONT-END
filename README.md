@@ -7,7 +7,7 @@
 </h4>
 
 <img src="https://img.shields.io/static/v1?label=Status&message=FINISHED&color=09c89f&style=for-the-badge&logo=ghost"/>
-<img src="https://img.shields.io/static/v1?label=License&message=Mit&color=09c89f&style=for-the-badge&logo=opensourceinitiative"/>
+<img src="https://img.shields.io/static/v1?label=License&message=Mit&color=09c89f&style=for-the-badge&logo=Ghost"/>
 
 <p align="center">Aplicação ElectronJS que mostra a hora em tempo real usando protocolo websocket</p>
 
