@@ -15,8 +15,8 @@
 
 </br>
 
-<p align="center">
-    <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-TEMPLATE.png" />
+<p alt="INSTALAÇÃO" align="center">
+    <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-INSTALA%C3%87%C3%83O.png" />
 </p>
 
 ### ●Clonando o repositório
@@ -49,7 +49,9 @@ $ git clone https://github.com/4lex-passos/Realtime_Clock_FRONT-END.git
 
 </br>
 
-## 🚀 Execução
+<p alt="EXECUÇÃO" align="center">
+    <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-EXECU%C3%87%C3%83O.png" />
+</p>
 
 ❶ Abra o projeto no VsCode.
 
