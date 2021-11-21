@@ -49,6 +49,7 @@ $ git clone https://github.com/4lex-passos/Realtime_Clock_FRONT-END.git
 ❼ Pressione Enter para criar seu clone local.
 
 </br>
+</br>
 
 <p alt="EXECUÇÃO" align="center">
     <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-EXECU%C3%87%C3%83O.png" />
