@@ -74,3 +74,5 @@ npm start
 ```
 
 Para iniciar a aplicação.
+
+🎉 E PRONTO, PARABÉNS 🎊
