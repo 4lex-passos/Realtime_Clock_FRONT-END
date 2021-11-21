@@ -60,7 +60,7 @@ npm install
 ```
 Para instalar todas as dependências.
 
-### » Iniciando o app
+### Iniciando o app
 
 No terminal digite:
 
