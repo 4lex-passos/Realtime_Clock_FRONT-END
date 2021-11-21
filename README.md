@@ -17,7 +17,7 @@
 
 ## 📦 Instalação
 
-### » Clonando o repositório
+### Clonando o repositório
 
 ❶ - Na página principal do repositório.
 
@@ -51,7 +51,7 @@ $ git clone https://github.com/4lex-passos/Realtime_Clock_FRONT-END.git
 
 Abra o projeto no VsCode.
 
-### » Instalando as dependências
+### Instalando as dependências
 
 No terminal digite:
 
