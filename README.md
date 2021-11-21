@@ -15,7 +15,9 @@
 
 </br>
 
-## 📦 Instalação
+<p align="center">
+    <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-TEMPLATE.png" />
+</p>
 
 ### ●Clonando o repositório
 
