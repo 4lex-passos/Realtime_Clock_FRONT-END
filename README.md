@@ -9,8 +9,8 @@
 <p align="center">Aplicação ElectronJS que mostra a hora em tempo real usando protocolo websocket</p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Status&message=FINISHED&color=09c89f&style=for-the-badge&logo=ghost"/>
-      <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=09c89f&style=for-the-badge&logo=Ghost"/>
+    <img src="https://img.shields.io/static/v1?label=Status&message=FINISHED&color=09c89f&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=09c89f&style=for-the-badge&logo=Ghost"/>
 </p>
 
 ## 📦 Instalação
@@ -38,7 +38,7 @@
 6 - Digite git clone (clonar git) e cole a URL deste repositório:
 
 ```sh
-$ git clone https://github.com/4lex-passos/Salus-VR-Web-Application.git
+$ git clone https://github.com/4lex-passos/Realtime_Clock_FRONT-END.git
 ```
 
 7 - Pressione Enter para criar seu clone local.
