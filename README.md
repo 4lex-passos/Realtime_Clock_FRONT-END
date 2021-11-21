@@ -15,11 +15,12 @@
 
 </br>
 
-<p align="center">
-    <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-TEMPLATE.png" />
+<p alt="INSTALAÇÃO" align="center">
+    <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-INSTALA%C3%87%C3%83O.png" />
 </p>
 
-### ●Clonando o repositório
+### CLONANDO O REPOSITÓRIO:
+</br>
 
 ❶ Navegue para a página principal do repositório.
 
@@ -48,12 +49,16 @@ $ git clone https://github.com/4lex-passos/Realtime_Clock_FRONT-END.git
 ❼ Pressione Enter para criar seu clone local.
 
 </br>
+</br>
 
-## 🚀 Execução
+<p alt="EXECUÇÃO" align="center">
+    <img src="https://github.com/4lex-passos/Realtime_Clock_FRONT-END/blob/master/public/README-TITLES-EXECU%C3%87%C3%83O.png" />
+</p>
 
 ❶ Abra o projeto no VsCode.
 
-### ●Instalando as dependências
+### INSTALANDO AS DEPENDÊNCIAS:
+</br>
 
 ❷ No terminal digite:
 
@@ -62,7 +67,8 @@ npm install
 ```
 Para instalar todas as dependências.
 
-### ●Iniciando o app
+### INICIANDO O APP:
+</br>
 
 ❸ No terminal digite:
 
