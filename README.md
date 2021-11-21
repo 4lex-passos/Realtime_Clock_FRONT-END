@@ -19,7 +19,7 @@
 
 ### Clonando o repositório
 
-❶ Na página principal do repositório.
+❶ Navegue para a página principal do repositório.
 
 ❷ Acima da lista de arquivos, clique em código.
 </br>
